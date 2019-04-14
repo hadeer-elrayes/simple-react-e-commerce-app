@@ -1,0 +1,15 @@
+Fatma :
+1- add product 
+2- details page
+3- details router
+
+Hadeer :
+1- product listing 
+2- pagination 
+3- product item
+4- delete product 
+5- app router/ add product router
+
+
+store : Hadeer&Fatma
+collect project :Hadeer
